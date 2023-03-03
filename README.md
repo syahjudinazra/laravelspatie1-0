@@ -1,17 +1,18 @@
-Laravel Spatie Integration
+<b>Laravel Spatie Integration</b>
 Web Apps Sederhana yang sudah terintegrasi Role and Permission
 
-User login authentication
-User Register authentication
-Fitur CRUD
-Fitur Role and Permission
+### Featured
+- User login authentication
+- User Register authentication
+- Fitur CRUD
+- Fitur Role and Permission
 
 ### Tech Stack
-Laravel 9
-Bootstrap 5
-PHP 8.2
+- Laravel 9
+- Bootstrap 5
+- PHP 8.2
 lain-lain:
-Laravel/UI Bootstrap Package
+- Laravel/UI Bootstrap Package
 ### Instalasi
 - Clone atau Download
 - Masuk ke folder laravelspatie1-0 ini

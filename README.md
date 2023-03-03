@@ -1,5 +1,5 @@
 <b>Laravel Spatie Integration</b>
-Web Apps Sederhana yang sudah terintegrasi Role and Permission
+- Web Apps Sederhana yang sudah terintegrasi Role and Permission
 
 ### Featured
 - User login authentication
@@ -11,7 +11,7 @@ Web Apps Sederhana yang sudah terintegrasi Role and Permission
 - Laravel 9
 - Bootstrap 5
 - PHP 8.2
-lain-lain:
+### lain-lain:
 - Laravel/UI Bootstrap Package
 ### Instalasi
 - Clone atau Download

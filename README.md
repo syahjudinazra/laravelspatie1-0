@@ -13,6 +13,8 @@
 - PHP 8.2
 ### lain-lain:
 - Laravel/UI Bootstrap Package
+- Check Users : link.com/users
+- Check Roles : link.com/roles
 ### Instalasi
 - Clone atau Download
 - Masuk ke folder laravelspatie1-0 ini
